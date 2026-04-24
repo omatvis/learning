@@ -11,7 +11,7 @@ Welcome to the `omatvis/learning` repo. This module helps you set up your enviro
 
 ## Tooling checklist
 
-- [ ] [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
+- [ ] [.NET 10 SDK](https://dotnet.microsoft.com/en-us/download)
 - [ ] [SQL Server (Developer edition or Docker)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [ ] [Node.js LTS](https://nodejs.org/)
 - [ ] [Git](https://git-scm.com/)
