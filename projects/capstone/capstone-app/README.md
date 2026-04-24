@@ -1,6 +1,6 @@
 # Capstone App
 
-> Full-stack application built using Clean Architecture (.NET 8 + SQL Server + React/TypeScript).
+> Full-stack application built using Clean Architecture (.NET 10 + SQL Server + React/TypeScript).
 
 ## Architecture
 

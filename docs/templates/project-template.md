@@ -20,7 +20,7 @@
 
 | Layer | Technology |
 |-------|-----------|
-| Backend | .NET 8 Minimal API / Controllers |
+| Backend | .NET 10 Minimal API / Controllers |
 | Database | SQL Server |
 | Frontend | React + TypeScript (if applicable) |
 

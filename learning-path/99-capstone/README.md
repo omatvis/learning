@@ -9,7 +9,7 @@ The exact domain will be refined in milestone m2; what matters is completing all
 
 ## Architecture
 
-- Backend: .NET 8, Clean Architecture (Api / Application / Domain / Infrastructure).
+- Backend: .NET 10, Clean Architecture (Api / Application / Domain / Infrastructure).
 - Database: SQL Server with EF Core migrations.
 - Frontend: React + TypeScript (Vite).
 - Auth: JWT.

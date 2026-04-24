@@ -4,7 +4,7 @@
 
 ## Tasks
 
-1. Confirm .NET 8 SDK is installed: `dotnet --version` (should show `8.x.x`).
+1. Confirm .NET 10 SDK is installed: `dotnet --version` (should show `10.x.x`).
 2. Confirm Node.js LTS is installed: `node --version`.
 3. Confirm Git is installed: `git --version`.
 4. Clone this repo (if not already done) and create a test branch: `exercise/00-setup`.
