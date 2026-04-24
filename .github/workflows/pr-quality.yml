@@ -1,0 +1,19 @@
+name: PR Quality
+
+on:
+  pull_request:
+    branches: ["main"]
+
+permissions:
+  contents: read
+
+jobs:
+  # TODO: add linting, formatting, and conventions checks as projects are created
+  placeholder:
+    name: PR quality placeholder
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Echo status
+        run: echo "PR quality placeholder — add lint/format checks here as projects are created."
