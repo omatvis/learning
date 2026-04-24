@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  push:
+    branches: ["main", "exercise/**", "feature/**", "fix/**"]
+  pull_request:
+    branches: ["main"]
+
+permissions:
+  contents: read
+
+jobs:
+  # TODO: add real build/test steps as projects are created
+  placeholder:
+    name: CI placeholder
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Echo status
+        run: echo "CI placeholder — add build and test steps here as projects are created."
